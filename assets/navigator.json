@@ -1,0 +1,110 @@
+{
+    "html": {
+        "headings": {
+            "content": "Headings are defined with the &lt;h1&gt; to &lt;h6&gt; tags.",
+            "references": [
+                "https://www.w3schools.com/html/html_headings.asp"
+            ]
+        },
+        "paragraphs": {
+            "content": "The HTML &lt;p&gt; element defines a paragraph.",
+            "references": [
+                "https://www.w3schools.com/html/html_paragraphs.asp"
+            ]
+        },
+        "links": {
+            "content": "Links are found in nearly all web pages. Links allow users to click their way from page to page.",
+            "references": [
+                "https://www.w3schools.com/html/html_links.asp"
+            ]
+        },
+        "images": {
+            "content": "Images can improve the design and the appearance of a web page.",
+            "references": [
+                "https://www.w3schools.com/html/html_images.asp"
+            ]
+        },
+        "tables": {
+            "content": "An HTML table is defined with the &lt;table&gt; tag. Each table row is defined with the &lt;tr&gt; tag. A table header is defined with the &lt;th&gt; tag. By default, table headings are bold and centered. A table data/cell is defined with the &lt;td&gt; tag.",
+            "references": [
+                "https://www.w3schools.com/html/html_tables.asp"
+            ]
+        }
+    },
+    "css": {
+        "selectors": {
+            "content": "CSS selectors are used to \"find\" (or select) HTML elements based on their element name, id, class, attribute, and more.",
+            "references": [
+                "https://www.w3schools.com/css/css_syntax.asp"
+            ]
+        },
+        "colors": {
+            "content": "Colors are specified using predefined color names, or RGB, HEX, HSL, RGBA, HSLA values.",
+            "references": [
+                "https://www.w3schools.com/css/css_colors.asp"
+            ]
+        },
+        "boxes": {
+            "content": "The CSS box model is essentially a box that wraps around every HTML element. It consists of: margins, borders, padding, and the actual content. The image below illustrates the box model.",
+            "references": [
+                "https://www.w3schools.com/css/css_boxmodel.asp"
+            ]
+        },
+        "display": {
+            "content": "The display property specifies if/how an element is displayed. Every HTML element has a default display value depending on what type of element it is. The default display value for most elements is block or inline.",
+            "references": [
+                "https://www.w3schools.com/css/css_display_visibility.asp"
+            ]
+        },
+        "float": {
+            "content": "The CSS float property specifies how an element should float.",
+            "references": [
+                "https://www.w3schools.com/css/css_float.asp"
+            ]
+        }
+    },
+    "javascript": {
+        "functions": {
+            "content": "A JavaScript function is a block of code designed to perform a particular task. A JavaScript function is executed when \"something\" invokes it (calls it).",
+            "references": [
+                "https://www.w3schools.com/js/js_functions.asp"
+            ]
+        },
+        "objects": {
+            "content": "JavaScript objects are containers for named values called properties or methods.",
+            "references": [
+                "https://www.w3schools.com/js/js_objects.asp"
+            ]
+        },
+        "scope": {
+            "content": "Scope determines the accessibility (visibility) of variables.",
+            "references": [
+                "https://www.w3schools.com/js/js_scope.asp"
+            ]
+        },
+        "events": {
+            "content": "HTML events are \"things\" that happen to HTML elements. When JavaScript is used in HTML pages, JavaScript can \"react\" on these events.",
+            "references": [
+                "https://www.w3schools.com/js/js_events.asp"
+            ]
+        },
+        "hoisting": {
+            "content": "Hoisting is JavaScript's default behavior of moving declarations to the top.",
+            "references": [
+                "https://www.w3schools.com/js/js_hoisting.asp"
+            ]
+        },
+        "strict_mode": {
+            "content": "The \"use strict\" directive is new in JavaScript 1.8.5 (ECMAScript version 5). It is not a statement, but a literal expression, ignored by earlier versions of JavaScript. The purpose of \"use strict\" is to indicate that the code should be executed in \"strict mode\". With strict mode, you can not, for example, use undeclared variables.",
+            "references": [
+                "https://www.w3schools.com/js/js_strict.asp"
+            ]
+        },
+        "JSON": {
+            "content": "JSON is a format for storing and transporting data. JSON is often used when data is sent from a server to a web page.",
+            "references": [
+                "https://www.w3schools.com/js/js_json.asp"
+            ]
+        }
+    }
+}
