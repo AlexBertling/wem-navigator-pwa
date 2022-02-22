@@ -1,4 +1,8 @@
 import { LitElement, html, css } from "https://mkaul.github.io/lit/lib/lit.js";
+import Header from "./Header.js"
+import Main from "./Main.js"
+import Footer from "./Footer.js"
+import Menu from "./Menu.js"
 
 /**
  * 
